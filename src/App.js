@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edita <code>src/App.js</code> oasis aplicacion.
         </p>
         <a
           className="App-link"
