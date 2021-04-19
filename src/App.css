@@ -1,38 +1,24 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+@import url(//db.onlinewebfonts.com/c/8dd35a5ee9eab8c7c069365ac14fed9a?family=Burbank+Big+Regular);
+@import url(//db.onlinewebfonts.com/c/c60e60b8ebc4bb9dfdeaed294bb07370?family=Burbank+Big+Regular);
+@import url(//db.onlinewebfonts.com/c/ce366fe567377fc5597ebfa52b38073f?family=Burbank+Big+Regular); 
+@import url('http://fonts.cdnfonts.com/css/monofonto');
+.login{
+  width: 25%;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Dela Gothic One', cursive; */
+  font-family: 'Burbank Big Regular';
+  /* font-family: 'Monofonto'; */
+  background-color: #f4f4f2;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.form-control::placeholder {
+  color: #151515;
+  opacity: 0.3;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+* {
+  box-sizing: border-box;
 }
