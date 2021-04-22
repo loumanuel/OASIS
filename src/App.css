@@ -11,7 +11,7 @@
 body{
   /* font-family: 'Open Sans', sans-serif; */
   /* font-family: 'Dela Gothic One', cursive; */
-  font-family: Burbank Big Regular, 'candara';
+  font-family:'candara', Burbank Big Regular;
   /* font-family: 'Monofonto'; */
   background-color:#eeeeee;
 }
@@ -37,6 +37,7 @@ img{
   justify-content: center;
   align-items: center;
   padding: 1px;
+  width: 100%;
 }
 
 .login{
@@ -85,7 +86,7 @@ div{
     width: 100%;
   }
   .registro{
-    width: 90%;
+    width: 100%;
   }
   img{
     width: 13%;
@@ -97,7 +98,7 @@ div{
     width: 100%;
   }
   .registro{
-    width: 90%;
+    width: 100%;
   }
   img{
     width: 17%;
@@ -105,6 +106,9 @@ div{
 }
 @media (max-width: 900px){
   .login{
+    width: 100%;
+  }
+  .registro{
     width: 100%;
   }
   img{
@@ -115,6 +119,9 @@ div{
   .login{
     width: 100%;
   }
+  .registro{
+    width: 100%;
+  }
   .registroinicio{
     display: flex;
     justify-content: center;
@@ -123,12 +130,29 @@ div{
     width: 25%;
   }
 }
+
+@media (max-width: 790px){
+  .login{
+    width: 100%;
+  }
+  .registro{
+    width: 100%;
+  }
+  .registroinicio{
+    display: flex;
+    justify-content: center;
+  }
+  img{
+    width: 20%;
+  }
+}
+
 @media (max-width: 700px){
   .login{
     width: 100%;
   }
   .registro{
-    width: 90%;
+    width: 100%;
   }
   .registroinicio{
     display: flex;
@@ -141,24 +165,11 @@ div{
   }
 }
 
-@media (max-width: 790px){
+@media (max-width: 600px){
   .login{
     width: 100%;
   }
   .registro{
-    width: 90%;
-  }
-  .registroinicio{
-    display: flex;
-    justify-content: center;
-  }
-  img{
-    width: 20%;
-  }
-}
-
-@media (max-width: 600px){
-  .login{
     width: 100%;
   }
   .registroinicio{
@@ -182,6 +193,10 @@ div{
     margin-left: 4px;
     margin-right: 4px;
   }
+  .registro{
+    width: 100%;
+    padding-top: 1.5%;
+  }
   img{
     width: 18%;
     padding-bottom: 1.2%;
@@ -196,7 +211,7 @@ div{
     padding-top: 1.5%;
   }
   .registro{
-    width: 85%;
+    width: 100%;
     padding-top: 1.5%;
   }
   h3{
@@ -213,7 +228,7 @@ div{
     padding-top: 1.5%;
   }
   .registro{
-    width: 85%;
+    width: 100%;
     padding-top: 1.5%;
   }
   h3{
@@ -230,7 +245,7 @@ div{
     width: 100%;
   }
   .registro{
-    width: 95%;
+    width: 100%;
   }
   h3{
     font-size: 1.2em;
