@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/oasis/static/css/main.c245bb6a.chunk.css",
-    "main.js": "/oasis/static/js/main.fe2b0452.chunk.js",
-    "main.js.map": "/oasis/static/js/main.fe2b0452.chunk.js.map",
+    "main.css": "/oasis/static/css/main.e17da99a.chunk.css",
+    "main.js": "/oasis/static/js/main.c024f1af.chunk.js",
+    "main.js.map": "/oasis/static/js/main.c024f1af.chunk.js.map",
     "runtime-main.js": "/oasis/static/js/runtime-main.29e3a21b.js",
     "runtime-main.js.map": "/oasis/static/js/runtime-main.29e3a21b.js.map",
     "static/css/2.ef9168ec.chunk.css": "/oasis/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.cb6f84af.chunk.js": "/oasis/static/js/2.cb6f84af.chunk.js",
-    "static/js/2.cb6f84af.chunk.js.map": "/oasis/static/js/2.cb6f84af.chunk.js.map",
+    "static/js/2.c103d729.chunk.js": "/oasis/static/js/2.c103d729.chunk.js",
+    "static/js/2.c103d729.chunk.js.map": "/oasis/static/js/2.c103d729.chunk.js.map",
     "index.html": "/oasis/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/oasis/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.c245bb6a.chunk.css.map": "/oasis/static/css/main.c245bb6a.chunk.css.map",
-    "static/js/2.cb6f84af.chunk.js.LICENSE.txt": "/oasis/static/js/2.cb6f84af.chunk.js.LICENSE.txt"
+    "static/css/main.e17da99a.chunk.css.map": "/oasis/static/css/main.e17da99a.chunk.css.map",
+    "static/js/2.c103d729.chunk.js.LICENSE.txt": "/oasis/static/js/2.c103d729.chunk.js.LICENSE.txt",
+    "static/media/usac.3f43267a.png": "/oasis/static/media/usac.3f43267a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.29e3a21b.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.cb6f84af.chunk.js",
-    "static/css/main.c245bb6a.chunk.css",
-    "static/js/main.fe2b0452.chunk.js"
+    "static/js/2.c103d729.chunk.js",
+    "static/css/main.e17da99a.chunk.css",
+    "static/js/main.c024f1af.chunk.js"
   ]
 }
