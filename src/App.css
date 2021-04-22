@@ -7,6 +7,15 @@
 @import url('http://fonts.cdnfonts.com/css/monofonto');
 
 
+
+body{
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Dela Gothic One', cursive; */
+  font-family: 'Burbank Big Regular', candara;
+  /* font-family: 'Monofonto'; */
+  background-color:#eeeeee;
+}
+
 /* -------------------CUERPO------------------- */
 
 img{
@@ -52,13 +61,6 @@ div{
   text-align: end;
 }
 
-body{
-  /* font-family: 'Open Sans', sans-serif; */
-  /* font-family: 'Dela Gothic One', cursive; */
-  font-family: 'Burbank Big Regular';
-  /* font-family: 'Monofonto'; */
-  background-color:#eeeeee;
-}
 
 #map {
   height: 400px;  /* The height is 400 pixels */
